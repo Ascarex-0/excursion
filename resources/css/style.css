@@ -26,3 +26,12 @@ p {
 img {
     width: min(500px, 90vw);
 }
+
+.icon img{
+    width: min(50px, 90vw);
+}
+
+.copyright {
+    text-align: right;
+    color: gray;
+}
